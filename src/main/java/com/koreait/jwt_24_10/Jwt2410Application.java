@@ -1,4 +1,4 @@
-package com.lyj.proj.jwt_24_10;
+package com.koreait.jwt_24_10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
